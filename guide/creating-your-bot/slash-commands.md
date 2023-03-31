@@ -28,6 +28,7 @@ Assuming you've followed the guide so far, your project directory should look so
 
 ```:no-line-numbers
 discord-bot/
+├── .eslintrc.json
 ├── node_modules
 ├── config.json
 ├── index.js
